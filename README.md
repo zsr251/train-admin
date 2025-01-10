@@ -5,8 +5,12 @@
 
 ## 关联项目
 
-- 后端：[train-boot](https://github.com/zsr251/train-boot)
-- 前端：[train-admin](https://github.com/zsr251/train-admin)
+- 后端
+    - github：[train-boot](https://github.com/zsr251/train-boot)   
+    - gitee：[train-boot](https://gitee.com/zsr/train-boot)
+- 前端
+    - github：[train-admin](https://github.com/zsr251/train-admin) 
+    - gitee：[train-admin](https://gitee.com/zsr/train-admin)
 - 学员移动端：暂不开源
 - 教师移动端：暂不开源
 
